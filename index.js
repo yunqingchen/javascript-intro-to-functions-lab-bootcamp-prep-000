@@ -20,9 +20,9 @@ function logWhisper(string)
 
 function sayHitoGrandma(string)
 {
-  var CantHear = "I can't hear you!"
-  var CanHear = "YES INDEED!"
-  var ILoveYou = "I love you, too."
+  var CantHear = "I can't hear you!";
+  var CanHear = "YES INDEED!";
+  var ILoveYou = "I love you, too.";
   
   if (string.toLowerCase()) === string
   {
