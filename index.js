@@ -28,4 +28,9 @@ function sayHitoGrandma(string)
   {
     return CantHear;
   }
+  else if string.toUpperCase === string
+  { 
+    return CanHear;
+  }
+  
 }
