@@ -24,10 +24,8 @@ function sayHitoGrandma(string)
   var CanHear = "YES INDEED!";
   var ILoveYou = "I love you, too.";
   
-  if string.toLowerCase() === string
-  {
+  if string = stringtoLowerCase,
     return CantHear;
-  }
   else if string.toUpperCase() === string
   { 
     return CanHear;
