@@ -25,5 +25,7 @@ function sayHitoGrandma(string)
   var ILoveYou = "I love you, too."
   
   if string.toLowerCase === string
-  
+  {
+    return CantHear;
+  }
 }
