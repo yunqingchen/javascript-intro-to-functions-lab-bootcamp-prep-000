@@ -22,5 +22,7 @@ function sayHitoGrandma(string)
 {
   var CantHear = "I can't hear you!"
   var CanHear = "YES INDEED!"
-  var ILoveYou = ""
+  var ILoveYou = "I love you, too."
+  
+  if CantHear === string
 }
