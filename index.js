@@ -32,5 +32,8 @@ function sayHitoGrandma(string)
   { 
     return CanHear;
   }
-  else if ("I love you, Grandma.")
+  else if ("I love you, Grandma." === string)
+  {
+    return 
+  }
 }
